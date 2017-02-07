@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Kohana template
+/application/cache/*
+/application/logs/*
+
+/nbproject
+/nbproject/private/
+/.idea/
